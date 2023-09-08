@@ -42,6 +42,7 @@ class DataType {
 
         System.out.println("END");
         System.out.println("Change in new branch");
+        System.out.println("just for fun");
     
 
     }
